@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466507216575",
+    "project_id": "thunderchatdb",
+    "storage_bucket": "thunderchatdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466507216575:android:663f9400a5b8ddf368b80a",
+        "android_client_info": {
+          "package_name": "com.example.thunderchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466507216575-fpbqubf71nvba30nhnfvbpbbi7r7pdaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-VdLXQv55nfoF6ZnFOV9xyhdyKCw1sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466507216575-fpbqubf71nvba30nhnfvbpbbi7r7pdaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
